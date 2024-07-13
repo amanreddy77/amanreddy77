@@ -27,10 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amanreddypundru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanreddypundru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://linkedin.com/in/aman-reddy-pundru-272b53221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/aman-reddy-pundru-272b53221" height="30" width="40" /></a>
 <a href="https://instagram.com/reddy_aman_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reddy_aman_77" height="30" width="40" /></a>
 <a href="https://medium.com/@reddyaman77.ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reddyaman77.ar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@reddyaman77_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@reddyaman77_ar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/reddyaman77_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/reddyaman77_ar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanreddy77&show_icons=true&locale=en" alt="amanreddy77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanreddy77&" alt="amanreddy77" /></p>
+
