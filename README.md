@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **reddyaman77.ar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1367OrUwg8Gm6vRyoN1MZgWNEGvqMLD8e/view](https://drive.google.com/file/d/1367OrUwg8Gm6vRyoN1MZgWNEGvqMLD8e/view)
+- 📄 Know about my experiences [https://portfolio-aman-gamma.vercel.app/](https://portfolio-aman-gamma.vercel.app/)
 
 - ⚡ Fun fact **I love development not DSA**
 
