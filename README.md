@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@reddyaman77.ar](https://medium.com/@reddyaman77.ar)
 
-- 💬 Ask me about **React, J2EE**
+- 💬 Ask me about **React, J2EE** 
 
 - 📫 How to reach me **reddyaman77.ar@gmail.com**
 
