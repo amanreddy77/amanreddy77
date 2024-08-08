@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanreddy77&label=Profile%20views&color=0e75b6&style=flat" alt="amanreddy77" /> </p>   
-  
+   
 - 🔭 I’m currently working on **AI Integrated web apps**  
   
 - 🌱 I’m currently learning **React Native, c#**   
