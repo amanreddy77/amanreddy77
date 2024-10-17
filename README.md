@@ -41,8 +41,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanreddy77&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanreddy77&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amanreddy77&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amanreddy77&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
